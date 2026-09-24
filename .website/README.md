@@ -1,4 +1,7 @@
 ---
+genres:
+  - tower-defense
+  - strategy
 post: https://github.com/HiroshiITO-personal/towerdefence
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
